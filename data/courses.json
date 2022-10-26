@@ -1,5 +1,101 @@
 [
-  { "id": 1, "name": "Sonargoan" },
-  { "id": 2, "name": "Inani" },
-  { "id": 3, "name": "Paradise" }
+  {
+    "id": 1,
+    "name": "HTML",
+    "img": "https://i.ibb.co/SnrzZhH/pngegg-9.png",
+    "description": "All websites use HTML — even this one. It's a fundamental part of every web developer's toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers.",
+    "type": "Free",
+    "lists": ["Elements and Structure", "Tables", "Forms", "Semantic HTML"]
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "img": "https://i.ibb.co/C77G7sz/pngegg-10.png",
+    "description": "You'll find learning CSS essential in styling websites. Web developers use it to build on basic HTML and add personality to plain text pages. This course helps you expand your coding foundation and gives you CSS interactive practice to start adding colors and background images or editing layouts so you can create your very own, unique stylized web pages.",
+    "type": "Free",
+    "lists": [
+      "Syntax an Selectors",
+      "Visual Rules",
+      "The Box Model",
+      "Display and Positioning",
+      "Colors",
+      "Typography"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "img": "https://i.ibb.co/cQqgHXx/pngegg-8.png",
+    "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you'll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+    "type": "Paid",
+    "lists": [
+      "Welcome to Learn JavaScript",
+      "Introduction",
+      "Conditionals",
+      "Functions",
+      "Scope",
+      "Arrays",
+      "Loops",
+      "Iterators",
+      "Objects",
+      "Next Steps"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "img": "https://i.ibb.co/CvK35Vz/pngegg-4.png",
+    "description": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You'll learn how to start with React and build up to dynamic user interfaces. You'll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer.",
+    "type": "Paid",
+    "lists": [
+      "JSX",
+      "React Components",
+      "Components Interacting",
+      "Lifecycle Methods",
+      "Hooks",
+      "Stateless Components From Stateful Components",
+      "Additionals React Basics"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Java",
+    "img": "https://i.ibb.co/J7KbzYP/pngegg-2.png",
+    "description": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.",
+    "type": "Paid",
+    "lists": [
+      "Hello world",
+      "Variables",
+      "Object-Oriented Java",
+      "Conditionals and Control Flow",
+      "Arrays and ArrayLists",
+      "Loops",
+      "String Methods",
+      "Access, Encapsulation, and Static Methods",
+      "Inheritance and Polymorphism",
+      "Debugging",
+      "Two-Dimensional Arrays"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Git",
+    "img": "https://i.ibb.co/5FY4ZRk/pngegg-5.png",
+    "description": "Git is used across the world to help developers keep track of changes while working on different parts of the same project. GitHub is a web app that can integrate with Git. Together, users can host, organize, explore, and collaborate on code with teams and the wider developer community. This course gives you an introduction to Git and GitHub — and how they work together as you build projects.",
+    "type": "Free",
+    "lists": [
+      "Introduction: Git & GitHub",
+      "Basic Git Workflow",
+      "Inportant Git Operations",
+      "Introduction to GitHub",
+      "GitHub & Markdown",
+      "Git Branching",
+      "Git Teamwork",
+      "Deploying Websites using Git and GitHub",
+      "Best Practices for GitHub Repositories",
+      "Collaborating with the GitHub Community",
+      "GitHub Features: Issues, CLI, & Actions",
+      "Review: Learn Git & GitHub"
+    ]
+  }
 ]
