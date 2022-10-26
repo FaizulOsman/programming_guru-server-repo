@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Why do you need a private route in your project?",
+    "answer": "The private route component is used to protect selected pages in a React app from unauthenticated users."
+  },
+  {
+    "id": 2,
+    "question": "How will you make a route private?",
+    "answer": "The private route component is similar to the public route, the only change is that redirect URL and authenticate condition.  If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated (Logged in)."
+  },
+  {
+    "id": 3,
+    "question": "What is the necessity of useRef() hook?",
+    "answer": "The useRef Hook allows you to persist values between renders. It can be used to store a mutable value that does not cause a re-render when updated. It can be used to access a DOM element directly."
+  },
+  {
+    "id": 4,
+    "question": "What is nested routing?",
+    "answer": "To recap, nested routes allow you to, at the route level, have a parent component control the rendering of a child component. Twitter's /messages route is the perfect example of this. With React Router, you have two options for creating nested routes."
+  },
+  {
+    "id": 5,
+    "question": "What is the differences between react-router-dom & react-router-native?",
+    "answer": "The primary difference between them lies in their usage. React Router DOM is for web applications and React Router Native is for mobile applications made with React Native."
+  },
+  {
+    "id": 6,
+    "question": "What is the strict mode in react?",
+    "answer": "StrictMode is a React Developer Tool that is primarily used to identify potential issues in a web application. For its descendant components, it activates additional depreciation checks and warnings."
+  },
+  {
+    "id": 7,
+    "question": "Why will you use dynamic route?",
+    "answer": "Dynamic routing provides key advantages over static routing, including scalability and adaptability. A dynamically routed network can grow larger more quickly and is able to adapt to changes in the network topology brought about by this growth or by the failure of one or more network components."
+  },
+  {
+    "id": 8,
+    "question": "What is the purpose of context API in react?",
+    "answer": "The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to 'prop drilling' or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux."
+  },
+  {
+    "id": 9,
+    "question": "What is a custom hook?",
+    "answer": "Custom Hooks are a mechanism to reuse stateful logic (such as setting up a subscription and remembering the current value), but every time you use a custom Hook, all state and effects inside of it are fully isolated. How does a custom Hook get isolated state? Each call to a Hook gets isolated state."
+  },
+  {
+    "id": 10,
+    "question": "When to use context API?",
+    "answer": "Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context."
+  },
+  {
+    "id": 11,
+    "question": "How is react routing different from conventional routing?",
+    "answer": "React Router is a library for routing in React applications. It allows you to create routes and link to them from your components. When a user clicks a link, React Router will determine which route to use and render the corresponding component."
+  },
+  {
+    "id": 12,
+    "question": "What are hooks?",
+    "answer": "Hooks are functions that let you “hook into” React state and lifecycle features from function components. Hooks don’t work inside classes — they let you use React without classes. (We don’t recommend rewriting your existing components overnight but you can start using Hooks in the new ones if you’d like.)  React provides a few built-in Hooks like useState. You can also create your own Hooks to reuse stateful behavior between different components"
+  }
+]
