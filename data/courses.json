@@ -5,7 +5,8 @@
     "img": "https://i.ibb.co/SnrzZhH/pngegg-9.png",
     "description": "All websites use HTML — even this one. It's a fundamental part of every web developer's toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers.",
     "type": "Free",
-    "lists": ["Elements and Structure", "Tables", "Forms", "Semantic HTML"]
+    "lists": ["Elements and Structure", "Tables", "Forms", "Semantic HTML"],
+    "price": 0
   },
   {
     "id": 2,
@@ -20,7 +21,8 @@
       "Display and Positioning",
       "Colors",
       "Typography"
-    ]
+    ],
+    "price": 0
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
       "Iterators",
       "Objects",
       "Next Steps"
-    ]
+    ],
+    "price": 12
   },
   {
     "id": 4,
@@ -55,7 +58,8 @@
       "Hooks",
       "Stateless Components From Stateful Components",
       "Additionals React Basics"
-    ]
+    ],
+    "price": 25
   },
   {
     "id": 5,
@@ -75,7 +79,8 @@
       "Inheritance and Polymorphism",
       "Debugging",
       "Two-Dimensional Arrays"
-    ]
+    ],
+    "price": 22
   },
   {
     "id": 6,
@@ -96,6 +101,7 @@
       "Collaborating with the GitHub Community",
       "GitHub Features: Issues, CLI, & Actions",
       "Review: Learn Git & GitHub"
-    ]
+    ],
+    "price": 0
   }
 ]
