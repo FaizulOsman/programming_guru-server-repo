@@ -29,7 +29,7 @@
     "name": "JavaScript",
     "img": "https://i.ibb.co/cQqgHXx/pngegg-8.png",
     "description": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you'll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
-    "type": "Paid",
+    "type": "Premium",
     "lists": [
       "Welcome to Learn JavaScript",
       "Introduction",
@@ -49,7 +49,7 @@
     "name": "React",
     "img": "https://i.ibb.co/CvK35Vz/pngegg-4.png",
     "description": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You'll learn how to start with React and build up to dynamic user interfaces. You'll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer.",
-    "type": "Paid",
+    "type": "Premium",
     "lists": [
       "JSX",
       "React Components",
@@ -66,7 +66,7 @@
     "name": "Java",
     "img": "https://i.ibb.co/J7KbzYP/pngegg-2.png",
     "description": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.",
-    "type": "Paid",
+    "type": "Premium",
     "lists": [
       "Hello world",
       "Variables",
